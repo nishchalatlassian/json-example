@@ -4,7 +4,8 @@
     "species" : "cat",
     "foods": {
       "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+      "dislikes": ["ham", "zucchini"],
+      "whoCares": ["Import"]
     }
   },
   {
