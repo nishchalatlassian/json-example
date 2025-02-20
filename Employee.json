@@ -2,11 +2,13 @@
   "employee":[
    {
     "name":"Suraj",
-    "Age":30
+    "Age":30,
+     "Manager":true
    },
    {
     "name":"Gaurav",
-    "Age":20
+    "Age":20,
+     "Manager":false
    }
   ]
 }
