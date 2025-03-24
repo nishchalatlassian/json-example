@@ -8,7 +8,7 @@
    {
     "name":"Gaurav",
     "Age":20,
-     "Manager":false
+     "Manager":true
    }
   ]
 }
